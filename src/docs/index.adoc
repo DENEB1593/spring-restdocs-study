@@ -1,0 +1,28 @@
+= Rest Docs
+deneb;
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 2
+:sectlinks:
+
+
+
+[[Member-API]]
+== Member API
+
+[[Member-단일-조회]]
+=== Member 단일 조회
+include::{snippets}
+
+[[Member-페이징-조회]]
+=== Member 페이징 조회
+
+[[Member-생성]]
+=== Member 생성
+
+[[Member-수정]]
+=== Member 수정
+
+
